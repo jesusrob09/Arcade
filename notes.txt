@@ -1,0 +1,59 @@
+Jesus Robles
+1/7/2021
+First Meeting Notes
+
+After first impressions, the program works and interacts well with the user. There is room to expand and improve its current work. 
+
+Next steps after this meeting is improve upon feedback and take suggestions. Code will be made more readable through clarity, refactorability, and generality. 
+
+	First Meeting with Professor Davis:
+	1/7/2021
+		Specific Notes for the code:
+			- Preference not to capitalize the first letter of anything if not a Class (In regards to my function names)
+
+			- Explore the with clause, f" strings, try-except
+
+			- Shorten main() by making specific tasks into sub-functions (Ex: printing out to user without interaction and reading in file)
+
+			- Keep functions to a single Task
+
+			- Explore how to improve stick figure animations
+				- Blessings tool to edit drawing 
+				- Write function with figures in txt file and be read into program
+
+			- Write tests for subfunctions once they have been set to a single task 
+
+		Overall, the main focus after this first meeting will be to improve the code by trying to keep main shorter, keeping functions to a single task, and expand
+
+	First Meeting with Coding Colleague(Joel Deutsc):
+	1/15/2021
+		Notes:
+			- Liked style and organization of the code
+
+			- Consider adding repeated letter feature
+
+			- Seemed to favor the expansion of game project idea for second project
+
+	
+	Second Meeting with Professor Davis: 
+	1/20/2021
+		Specific Notes for code: 
+			- Look into avoiding ravioli code 
+			- Restructure setup, checking collisions, and loop 
+			- Try to take advantage of class functions
+		
+		Overall, good organization. Start working for better clarity.
+
+	
+	Second Meeting with Coding Colleague (Joel Deutsc):
+	1/26/2020
+		Notes:
+			- Enjoyed the latest iteration of brickbreaker 
+			- Make comments for variable names that are not as intuitive 
+			- Was able to 
+			- Explain what index variable is in the code
+			- Write comments or docstrings for why the order of the loop was 
+			  chosen to be a certain way
+			- Either make ball move at beginning or end of while loop for clarity
+
+
